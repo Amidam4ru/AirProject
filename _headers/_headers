@@ -1,0 +1,5 @@
+/Build/*.br
+  Content-Encoding: br
+
+/Build/*.gz
+  Content-Encoding: gzip
